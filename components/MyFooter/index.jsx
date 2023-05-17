@@ -13,7 +13,7 @@ const MyFooter = () => {
             />
             <Button
                 type="link"
-                href="https://github.com/wxtsky/MyWalletScan"
+                href="https://github.com/tiancong-netizen/WalletScan"
                 target="_blank"
                 icon={<GithubOutlined/>}
                 size={"middle"}
